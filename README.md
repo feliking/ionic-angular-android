@@ -1,4 +1,4 @@
-# Framework Ioinic with Angular 9 
+# Framework Ioinic 4 with Angular 9 
 
 ## Installation:
 * Clone the repo 
@@ -8,6 +8,9 @@
 ## Commands
 * Generate components into application `ionic generate`
 
-## Bonus
-* Lightweight [Vuetify Toast Snackbar](https://github.com/eolant/vuetify-toast-snackbar)
-* Checkout this [Confirm Dialog Component](https://gist.github.com/eolant/ba0f8a5c9135d1a146e1db575276177d) that you can add and extend in your application
+## Deploy apk
+* Install capacitor `npm install --save @capacitor/core @capacitor/cli`
+* Starting capacitor `npx cap init`
+* Compile the project `ionic build`
+* Compile android app `npx cap add android`
+* Open dir "android" in the android studio and generate apk... :D

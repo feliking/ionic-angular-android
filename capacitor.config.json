@@ -1,0 +1,8 @@
+{
+  "appId": "com.felix.app",
+  "appName": "my firstproject",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
