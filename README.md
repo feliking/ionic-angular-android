@@ -1,4 +1,8 @@
-# Framework Ioinic 4 with Angular 9 
+# Framework Ionic 4 with Angular 9 
+
+## Create new Project
+* Install Ionic CLI `npm install -g @ionic/cli`
+* Create a new project with `ionic start project_name`
 
 ## Installation:
 * Clone the repo 
